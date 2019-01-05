@@ -1,6 +1,6 @@
 {
   "name": "evergreen-ui",
-  "version": "4.7.0",
+  "version": "4.7.1",
   "description": "🌲 React UI Kit by Segment 🌲",
   "contributors": [
     "Jeroen Ransijn (https://jssr.design/)",
@@ -44,6 +44,7 @@
     "@blueprintjs/icons": "^3.2.0",
     "arrify": "^1.0.1",
     "classnames": "^2.2.6",
+    "date-fns": "^1.29.0",
     "dom-helpers": "^3.2.1",
     "downshift": "^1.31.16",
     "fuzzaldrin-plus": "^0.6.0",

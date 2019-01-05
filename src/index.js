@@ -13,6 +13,7 @@ export { StackingOrder, Intent, Position } from './constants'
 export { CornerDialog } from './corner-dialog'
 export { Dialog } from './dialog'
 export { FilePicker } from './file-picker'
+export { DatePicker, DateRangePicker, InlineDatePicker } from './date-picker'
 export {
   FormField,
   FormFieldDescription,
